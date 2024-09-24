@@ -12,4 +12,6 @@ Canberra est la capitale de l\’Australie.</string>
 L\’océan Pacifique est plus large que l\’océan Atlantique.</string>
     <string name="question_mideast">
 Le canal de Suez relie la mer rouge et l\’océan Indien.</string>
+    <string name="score_text">"Votre score est de %d/%d"</string>
+    <string name="reset_button">Recommencer</string>
 </resources>
